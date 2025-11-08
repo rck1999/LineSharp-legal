@@ -1,0 +1,2 @@
+# LineSharp-legal
+Privacy Policy
