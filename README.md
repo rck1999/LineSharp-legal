@@ -6,7 +6,7 @@ This repository hosts the privacy policy and terms of use for the **LineSharp** 
 
 - Developer: **Kandai rck**
 - Contact: [kandai.rck@gmail.com](mailto:kandai.rck@gmail.com)
-- Privacy Policy: [View here](https://kandairck.github.io/linesharp/privacy.html)
+- Privacy Policy: [View here](https://rck1999.github.io/LineSharp-legal/privacy.html)
 
 ---
 
@@ -16,5 +16,5 @@ Este repositorio aloja la política de privacidad y los términos de uso de la a
 
 - Desarrollador: **Kandai rck**
 - Contacto: [kandai.rck@gmail.com](mailto:kandai.rck@gmail.com)
-- Política de Privacidad: [Ver aquí](https://kandairck.github.io/linesharp/privacy.html)
+- Política de Privacidad: [Ver aquí](https://rck1999.github.io/LineSharp-legal/privacy.html)
 
